@@ -4,6 +4,9 @@ Welcome to the Puzzle Android Application! This application allows users to solv
 
 ![Puzzle App](images/copy.jpg)
 
+<img src="images/copy.jpg" alt="Puzzle App" width="600"/>
+
+
 ## Features
 
 - **Custom Image**: Users can upload their own images to create unique puzzles.
@@ -14,19 +17,18 @@ Welcome to the Puzzle Android Application! This application allows users to solv
 ## Screenshots
 
 ### Splash Screen
-![Solution Screen](images/Screenshot_20240621-150946_Puzzle.jpg)
-
+<img src="images/home_screen.png" alt="Home Screen" width="300"/>
 ### Home Screen
-![Home Screen](images/Screenshot_20240621-150953_Puzzle.jpg)
+<img src="images/Screenshot_20240621-150953_Puzzle.jpg" alt="Home Screen" width="300"/>
 
 ### Puzzle Screen
-![Puzzle Screen](images/Screenshot_20240621-151004_Puzzle.jpg)
+<img src="images/Screenshot_20240621-151004_Puzzle.jpg" alt="Puzzle Screen" width="300"/>
 
 ### Solution Screen
-![Solution Screen](images/Screenshot_20240621-151008_Android%20System.jpg)
+<img src="images/Screenshot_20240621-150946_Puzzle.jpg" alt="Solution Screen" width="300"/>
+<img src="images/Screenshot_20240621-151008_Android%20System.jpg" alt="Solution Screen" width="300"/>
+<img src="images/Screenshot_20240621-151012_Puzzle.png" alt="Solution Screen" width="300"/>
 
-### Solution Screen
-![Solution Screen](images/Screenshot_20240621-151012_Puzzle.png)
 
 
 
