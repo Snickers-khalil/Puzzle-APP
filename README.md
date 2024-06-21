@@ -4,7 +4,7 @@ Welcome to the Puzzle Android Application! This application allows users to solv
 
 ![Puzzle App](images/copy.jpg)
 
-<img src="images/copy.jpg" alt="Puzzle App" width="600"/>
+[//]: # (<img src="images/copy.jpg" alt="Puzzle App" width="600"/>)
 
 
 ## Features
