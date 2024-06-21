@@ -12,6 +12,5 @@ enum class PuzzleImage(val drawableId: Int) {
 
     TekUp(R.drawable.tekup),
 
-
     CUSTOM(-1)
 }
